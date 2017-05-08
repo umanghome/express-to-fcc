@@ -1,4 +1,4 @@
-### Express your concerns to FCC regarding Net Neturality by just filling 3 fields! [International Addresses Only]
+### Express your concerns to FCC regarding Net Neutrality by just filling 3 fields! [International Addresses Only]
 
 This is a Python application that shows a dead-simple HTML form that asks for a person's name, email, and address and submits a Comment to FCC regarding Net Neutrality.
 
