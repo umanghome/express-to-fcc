@@ -13,7 +13,7 @@ if len(sys.argv) != 4:
 
 IP_TO_USE = sys.argv[1]
 FLASK_PORT = sys.argv[2]
-SERVER_NAME = sys.agrv[3]
+SERVER_NAME = sys.argv[3]
 
 url = 'https://www.fcc.gov/ecfs/search/proceedings?q=name:((17-108))'
 
