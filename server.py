@@ -9,6 +9,7 @@ SERVER_NAME = 'ffd51ee2.ngrok.io'
 
 if len(sys.argv) != 4:
     print 'Usage: python server.py <IP to use> <Port to use> <Server Name>'
+    sys.exit(0)
 
 IP_TO_USE = sys.argv[1]
 FLASK_PORT = sys.argv[2]
