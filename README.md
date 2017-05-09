@@ -8,6 +8,6 @@ On the server, do the following:
 1. Install `phantomjs`
 2. Clone this repository.
 3. `pip install splinter flask`
-4. `python server.py`
+4. `python server.py 0.0.0.0 80 domain.com`
 
 `index.html` contains the HTML page that contains the form.
